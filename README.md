@@ -63,5 +63,4 @@ Developed by Ramisa Ali Salwa
 This project is for educational purposes.
 
 
-Your GitHub repo:
-[TourMate Repository](https://github.com/Salwa101/TourMate?utm_source=chatgpt.com)
+
