@@ -38,8 +38,7 @@ git clone https://github.com/Salwa101/TourMate.git
 
 3. Install dependencies
 
-
-flutter pub get
+   flutter pub get
 
 4. Run the app
 
@@ -57,7 +56,7 @@ flutter run
 
 ## Author
 
-Developed byRamisa Ali Salwa
+Developed by Ramisa Ali Salwa
 
 ## License
 
